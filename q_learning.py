@@ -1,7 +1,4 @@
-"""
-Q-Learning example using OpenAI gym MountainCar enviornment
-Author: Moustafa Alzantot (malzantot@ucla.edu)
-"""
+
 import numpy as np
 
 import gym
